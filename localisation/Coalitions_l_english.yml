@@ -1,0 +1,17 @@
+﻿l_english:
+
+coalition_show:0 "Show Coalition Changer"
+coalition_hide:0 "Hide Coalition Changer"
+
+coalition_decisions:0 "Coalition Decisions"
+dissolve_coalition:0 "Dissolve Coalition"
+add_tot:0 "Add §VTotalists§! to Coalition"
+add_syn:0 "Add §RSyndicalists§! to Coalition"
+add_radsoc:0 "Add §NRadical Socialists§! to Coalition"
+add_socdem:0 "Add §MSocial Democrats§! to Coalition"
+add_soclib:0 "Add §lSocial Liberals§! to Coalition"
+add_marlib:0 "Add §mMarket Liberals§! to Coalition"
+add_soccon:0 "Add §cSocial Conservatives§! to Coalition"
+add_autdem:0 "Add §gAuthoritarian Democrats§! to Coalition"
+add_pataut:0 "Add §XPaternal Autocrats§! to Coalition"
+add_natpop:0 "Add §FNational Populists§! to Coalition"

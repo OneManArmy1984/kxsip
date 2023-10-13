@@ -1,0 +1,5 @@
+coalition_decisions = {
+	icon = GFX_decision_category_Reichstag
+    allowed = { always = yes }
+	visible = { has_country_flag = coalition_showed }
+}

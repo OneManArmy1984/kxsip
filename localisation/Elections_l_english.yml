@@ -1,0 +1,14 @@
+﻿l_english:
+
+enable_elections:0 "Enable Elections"
+disable_elections:0 "Disable Elections"
+ 
+elections.1.t:0 "What will be the frequency of elections?"
+elections.1.desc:0 ""
+
+elections.1.a:0 "2 Years"
+elections.1.b:0 "3 Years"
+elections.1.c:0 "4 Years"
+elections.1.e:0 "5 Years"
+elections.1.f:0 "6 Years"
+elections.1.g:0 "7 Years"
