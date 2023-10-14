@@ -254,6 +254,10 @@ country_event = {
 		set_country_leader_ideology = soccon_scandinavism_subtype  
 	}
 	option = {
+		name = soccon_picker.7.f
+		set_country_leader_ideology = popularism_subtype  
+	}
+	option = {
 		name = soccon_picker.7.h
 		country_event = soccon_picker.1
 	}

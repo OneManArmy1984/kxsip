@@ -250,6 +250,10 @@ country_event = {
 		set_country_leader_ideology = marlib_scandinavism_subtype
 	}
 	option = {
+		name = marlib_picker.7.e
+		set_country_leader_ideology = liberalism_spirit_subtype
+	}
+	option = {
 		name = marlib_picker.7.h
 		country_event = marlib_picker.1
 	}

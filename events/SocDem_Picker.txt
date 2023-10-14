@@ -410,6 +410,10 @@ country_event = {
 		set_country_leader_ideology = liberal_socialism_subtype
 	}
 	option = {
+		name = socdem_picker.11.g
+		set_country_leader_ideology = concretismo_subtype
+	}
+	option = {
 		name = socdem_picker.11.h
 		country_event = socdem_picker.1
 	}

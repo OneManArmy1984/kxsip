@@ -410,6 +410,10 @@ country_event = {
 		set_country_leader_ideology = mariateguismo_subtype
 	}
 	option = {
+		name = tot_picker.11.g
+		set_country_leader_ideology = bordigism_subtype
+	}
+	option = {
 		name = tot_picker.11.h
 		country_event = tot_picker.1
 	}

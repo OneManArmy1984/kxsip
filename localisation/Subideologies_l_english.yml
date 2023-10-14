@@ -122,6 +122,7 @@ tot_picker.11.b:0 "2.Broad Communism"
 tot_picker.11.c:0 "3.Négritude"
 tot_picker.11.e:0 "4.Noirisme"
 tot_picker.11.f:0 "5.Mariáteguismo"
+tot_picker.11.g:0 "6.Bordigism"
 tot_picker.11.h:0 "Back to First Page"
 
 ###Syndicalist###
@@ -426,6 +427,7 @@ socdem_picker.11.b:0 "2.Revisionist Marxism"
 socdem_picker.11.c:0 "3.Négritude"
 socdem_picker.11.e:0 "4.Scandinavism"
 socdem_picker.11.f:0 "5.Liberal Socialism"
+socdem_picker.11.g:0 "6.Concretismo"
 socdem_picker.11.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -585,6 +587,7 @@ marlib_picker.7.d:0 ""
 marlib_picker.7.a:0 "1.Kemalism"
 marlib_picker.7.b:0 "2.Paneuropeanism"
 marlib_picker.7.c:0 "3.Scandinavism"
+marlib_picker.7.e:0 "4.Liberalism of the Spirit"
 marlib_picker.7.h:0 "Back to First Page"
 
 ###Social Conservative###
@@ -664,6 +667,7 @@ soccon_picker.7.a:0 "1.Spiritualism"
 soccon_picker.7.b:0 "2.Maurrassisme"
 soccon_picker.7.c:0 "3.Gaullism"
 soccon_picker.7.e:0 "4.Scandinavism"
+soccon_picker.7.f:0 "5.Popularism"
 soccon_picker.7.h:0 "Back to First Page"
 
 ###Authoritarian Democrat###

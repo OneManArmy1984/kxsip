@@ -357,7 +357,7 @@ country_event = {
 	}
 	option = {
 		name = radsoc_picker.10.b
-		set_country_leader_ideology = red_socialist_feminism_subtype
+		set_country_leader_ideology = radsoc_socialist_feminism_subtype
 	}
 	option = {
 		name = radsoc_picker.10.c
