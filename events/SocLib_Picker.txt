@@ -263,6 +263,24 @@ country_event = {
 	}
 	option = {
 		name = soclib_picker.7.h
+		country_event = soclib_picker.8
+	}
+}
+
+country_event = {
+	id = soclib_picker.8
+	title = soclib_picker.8.t 
+	desc = soclib_picker.8.d 
+	picture = GFX_report_event_soclib8
+
+	is_triggered_only = yes
+	
+	option = {
+		name = soclib_picker.8.a
+		set_country_leader_ideology = soclib_liberal_socialism_subtype
+	}
+	option = {
+		name = soclib_picker.8.h
 		country_event = soclib_picker.1
 	}
 }

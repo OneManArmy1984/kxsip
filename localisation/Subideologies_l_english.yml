@@ -428,7 +428,13 @@ socdem_picker.11.c:0 "3.Négritude"
 socdem_picker.11.e:0 "4.Scandinavism"
 socdem_picker.11.f:0 "5.Liberal Socialism"
 socdem_picker.11.g:0 "6.Concretismo"
-socdem_picker.11.h:0 "Back to First Page"
+socdem_picker.11.h:0 "Next Page"
+
+socdem_picker.12.t:0 "Page 12"
+socdem_picker.12.d:0 ""
+
+socdem_picker.12.a:0 "1.Liberalized Syndicalism"
+socdem_picker.12.h:0 "Back to First Page"
 
 ###Social Liberal###
 
@@ -509,7 +515,13 @@ soclib_picker.7.c:0 "3.Authoritarian Liberalism"
 soclib_picker.7.e:0 "4.Noirisme"
 soclib_picker.7.f:0 "5.Scandinavism"
 soclib_picker.7.g:0 "6.Mazzinianesimo"
-soclib_picker.7.h:0 "Back to First Page"
+soclib_picker.7.h:0 "Next Page"
+
+soclib_picker.8.t:0 "Page 8"
+soclib_picker.8.d:0 ""
+
+soclib_picker.8.a:0 "1.Liberal Socialism"
+soclib_picker.8.h:0 "Back to First Page"
 
 ###Market Liberal###
 
