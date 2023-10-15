@@ -152,7 +152,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/socdem11.png"
 	}
 	spriteType = {
-		name = "GFX_report_event_socdem11"
+		name = "GFX_report_event_socdem12"
 		texturefile = "gfx/event_pictures/socdem12.png"
 	}
 	spriteType = {
@@ -184,7 +184,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/soclib7.png"
 	}
 	spriteType = {
-		name = "GFX_report_event_soclib7"
+		name = "GFX_report_event_soclib8"
 		texturefile = "gfx/event_pictures/soclib8.png"
 	}
 	spriteType = {
