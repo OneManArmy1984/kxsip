@@ -372,6 +372,10 @@ country_event = {
 		set_country_leader_ideology = laurismo_subtype
 	}
 	option = {
+		name = pataut_picker.10.g
+		set_country_leader_ideology = neoborbonismo_subtype
+	}
+	option = {
 		name = pataut_picker.10.h
 		country_event = pataut_picker.1
 	}

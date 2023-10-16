@@ -64,6 +64,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/syn5.png"
 	}
 	spriteType = {
+		name = "GFX_report_event_syn6"
+		texturefile = "gfx/event_pictures/syn6.png"
+	}
+	spriteType = {
 		name = "GFX_report_event_radsoc1"
 		texturefile = "gfx/event_pictures/radsoc1.png"
 	}

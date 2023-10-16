@@ -182,7 +182,13 @@ syn_picker.5.c:0 "3.Noirisme"
 syn_picker.5.e:0 "4.Baha’i Universalism"
 syn_picker.5.f:0 "5.Négritude"
 syn_picker.5.g:0 "6.Mariáteguismo"
-syn_picker.5.h:0 "Back to First Page"
+syn_picker.5.h:0 "Next Page"
+
+syn_picker.6.t:0 "Page 6"
+syn_picker.6.d:0 ""
+
+syn_picker.6.a:0 "1.Red Junta"
+syn_picker.6.h:0 "Back to First Page"
 
 ###Radical Socialist###
 
@@ -214,7 +220,7 @@ radsoc_picker.3.t:0 "Page 3"
 radsoc_picker.3.d:0 ""
 
 radsoc_picker.3.a:0 "1.Hašekism"
-radsoc_picker.3.b:0 "2.Socialist Junta"
+radsoc_picker.3.b:0 "2.Red Junta"
 radsoc_picker.3.c:0 "3.Anarcho-Syndicalism"
 radsoc_picker.3.e:0 "4.Illegalism"
 radsoc_picker.3.f:0 "5.Moderate Obamaism"
@@ -896,6 +902,7 @@ pataut_picker.10.b:0 "2.Right Syndicalism"
 pataut_picker.10.c:0 "3.Gaullism"
 pataut_picker.10.e:0 "4.Theosophy"
 pataut_picker.10.f:0 "5.Laurismo"
+pataut_picker.10.g:0 "6.Neoborbonismo"
 pataut_picker.10.h:0 "Back to First Page"
 
 ###National Populist###

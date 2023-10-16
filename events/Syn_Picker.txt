@@ -187,6 +187,24 @@ country_event = {
 	}
 	option = {
 		name = syn_picker.5.h
+		country_event = syn_picker.6
+	}
+}
+
+country_event = {
+	id = syn_picker.6
+	title = syn_picker.6.t 
+	desc = syn_picker.6.d 
+	picture = GFX_report_event_syn6
+
+	is_triggered_only = yes
+	
+	option = {
+		name = syn_picker.6.a
+		set_country_leader_ideology = syn_red_junta_subtype 
+	}
+	option = {
+		name = syn_picker.6.h
 		country_event = syn_picker.1
 	}
 }
