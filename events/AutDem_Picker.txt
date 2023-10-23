@@ -339,6 +339,24 @@ country_event = {
 	}
 	option = {
 		name = autdem_picker.9.h
+		country_event = autdem_picker.10
+	}
+}
+
+country_event = {
+	id = autdem_picker.10
+	title = autdem_picker.10.t 
+	desc = autdem_picker.10.d 
+	picture = GFX_report_event_autdem10
+
+	is_triggered_only = yes
+	
+	option = {
+		name = autdem_picker.10.a
+		set_country_leader_ideology = authdem_corporatocracy_subtype
+	}
+	option = {
+		name = autdem_picker.10.h
 		country_event = autdem_picker.1
 	}
 }

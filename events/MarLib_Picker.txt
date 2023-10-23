@@ -254,6 +254,14 @@ country_event = {
 		set_country_leader_ideology = liberalism_spirit_subtype
 	}
 	option = {
+		name = marlib_picker.7.f
+		set_country_leader_ideology = marlib_qualunquismo_subtype
+	}
+	option = {
+		name = marlib_picker.7.g
+		set_country_leader_ideology = marlib_radical_liberalism_subtype
+	}
+	option = {
 		name = marlib_picker.7.h
 		country_event = marlib_picker.1
 	}

@@ -204,6 +204,14 @@ country_event = {
 		set_country_leader_ideology = syn_red_junta_subtype 
 	}
 	option = {
+		name = syn_picker.6.b
+		set_country_leader_ideology = syn_natsynd_subtype 
+	}
+	option = {
+		name = syn_picker.6.c
+		set_country_leader_ideology = christian_syndicalism_subtype 
+	}
+	option = {
 		name = syn_picker.6.h
 		country_event = syn_picker.1
 	}

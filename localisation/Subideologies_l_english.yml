@@ -123,7 +123,13 @@ tot_picker.11.c:0 "3.Négritude"
 tot_picker.11.e:0 "4.Noirisme"
 tot_picker.11.f:0 "5.Mariáteguismo"
 tot_picker.11.g:0 "6.Bordigism"
-tot_picker.11.h:0 "Back to First Page"
+tot_picker.11.h:0 "Next Page"
+
+tot_picker.12.t:0 "Page 12"
+tot_picker.12.d:0 ""
+
+tot_picker.12.a:0 "1.Christian Communism"
+tot_picker.12.h:0 "Back to First Page"
 
 ###Syndicalist###
 
@@ -188,6 +194,8 @@ syn_picker.6.t:0 "Page 6"
 syn_picker.6.d:0 ""
 
 syn_picker.6.a:0 "1.Red Junta"
+syn_picker.6.b:0 "2.National Syndicalism"
+syn_picker.6.c:0 "3.Christian Syndicalism"
 syn_picker.6.h:0 "Back to First Page"
 
 ###Radical Socialist###
@@ -606,6 +614,8 @@ marlib_picker.7.a:0 "1.Kemalism"
 marlib_picker.7.b:0 "2.Paneuropeanism"
 marlib_picker.7.c:0 "3.Scandinavism"
 marlib_picker.7.e:0 "4.Liberalism of the Spirit"
+marlib_picker.7.f:0 "5.Qualunquismo"
+marlib_picker.7.g:0 "6.Radical Liberalism"
 marlib_picker.7.h:0 "Back to First Page"
 
 ###Social Conservative###
@@ -789,7 +799,13 @@ autdem_picker.9.c:0 "3.Gaullism"
 autdem_picker.9.e:0 "4.Theosophy"
 autdem_picker.9.f:0 "5.Scandinavism"
 autdem_picker.9.g:0 "6.Qualunquismo"
-autdem_picker.9.h:0 "Back to First Page"
+autdem_picker.9.h:0 "Next Page"
+
+autdem_picker.10.t:0 "Page 10"
+autdem_picker.10.d:0 ""
+
+autdem_picker.10.a:0 "1.Corporatocracy"
+autdem_picker.10.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
 
@@ -903,7 +919,13 @@ pataut_picker.10.c:0 "3.Gaullism"
 pataut_picker.10.e:0 "4.Theosophy"
 pataut_picker.10.f:0 "5.Laurismo"
 pataut_picker.10.g:0 "6.Neoborbonismo"
-pataut_picker.10.h:0 "Back to First Page"
+pataut_picker.10.h:0 "Next Page"
+
+pataut_picker.11.t:0 "Page 11"
+pataut_picker.11.d:0 ""
+
+pataut_picker.11.a:0 "1.Oligarchism"
+pataut_picker.11.h:0 "Back to First Page"
 
 ###National Populist###
 

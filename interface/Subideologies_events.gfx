@@ -44,6 +44,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/tot11.png"
 	}
 	spriteType = {
+		name = "GFX_report_event_tot12"
+		texturefile = "gfx/event_pictures/tot12.png"
+	}
+	spriteType = {
 		name = "GFX_report_event_syn1"
 		texturefile = "gfx/event_pictures/syn1.png"
 	}
@@ -284,6 +288,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/autdem9.png"
 	}
 	spriteType = {
+		name = "GFX_report_event_autdem10"
+		texturefile = "gfx/event_pictures/autdem10.png"
+	}
+	spriteType = {
 		name = "GFX_report_event_pataut1"
 		texturefile = "gfx/event_pictures/pataut1.png"
 	}
@@ -322,6 +330,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_pataut10"
 		texturefile = "gfx/event_pictures/pataut10.png"
+	}
+	spriteType = {
+		name = "GFX_report_event_pataut11"
+		texturefile = "gfx/event_pictures/pataut11.png"
 	}
 	spriteType = {
 		name = "GFX_report_event_natpop1"

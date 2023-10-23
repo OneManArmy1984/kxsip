@@ -377,6 +377,24 @@ country_event = {
 	}
 	option = {
 		name = pataut_picker.10.h
+		country_event = pataut_picker.11
+	}
+}
+
+country_event = {
+	id = pataut_picker.11
+	title = pataut_picker.11.t 
+	desc = pataut_picker.11.d 
+	picture = GFX_report_event_pataut11
+
+	is_triggered_only = yes
+	
+	option = {
+		name = pataut_picker.11.a
+		set_country_leader_ideology = pataut_oligarchy_subtype
+	}
+	option = {
+		name = pataut_picker.11.h
 		country_event = pataut_picker.1
 	}
 }
