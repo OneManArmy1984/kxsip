@@ -1072,4 +1072,10 @@ natpop_picker.13.c:0 "3.Noirisme"
 natpop_picker.13.e:0 "4.Noirisme Éthéré"
 natpop_picker.13.f:0 "5.Theosophy"
 natpop_picker.13.g:0 "6.Kleptocracy"
-natpop_picker.13.h:0 "Back to First Page"
+natpop_picker.13.h:0 "Next Page"
+
+natpop_picker.14.t:0 "Page 14"
+natpop_picker.14.d:0 ""
+
+natpop_picker.14.a:0 "1.Révolution Nationale"
+natpop_picker.14.h:0 "Back to First Page"

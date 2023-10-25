@@ -387,4 +387,8 @@ spriteTypes = {
 		name = "GFX_report_event_natpop13"
 		texturefile = "gfx/event_pictures/natpop13.png"
 	}
+	spriteType = {
+		name = "GFX_report_event_natpop14"
+		texturefile = "gfx/event_pictures/natpop14.png"
+	}
 }
