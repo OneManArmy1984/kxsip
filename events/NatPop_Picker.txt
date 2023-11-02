@@ -507,6 +507,14 @@ country_event = {
 		set_country_leader_ideology = natpop_revolution_nationale_subtype
 	}
 	option = {
+		name = natpop_picker.14.b
+		set_country_leader_ideology = sicilianism_subtype
+	}
+	option = {
+		name = natpop_picker.14.c
+		set_country_leader_ideology = natpop_yugoslavism_subtype
+	}
+	option = {
 		name = natpop_picker.14.h
 		country_event = natpop_picker.1
 	}

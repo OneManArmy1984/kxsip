@@ -318,6 +318,7 @@ radsoc_picker.11.d:0 ""
 radsoc_picker.11.a:0 "1.Mariáteguismo"
 radsoc_picker.11.b:0 "2.Liberal Socialism"
 radsoc_picker.11.c:0 "3.Christian Anarchism"
+radsoc_picker.11.e:0 "4.Left Georgism"
 radsoc_picker.11.h:0 "Back to First Page"
 
 ###Social Democrat###
@@ -926,6 +927,7 @@ pataut_picker.11.t:0 "Page 11"
 pataut_picker.11.d:0 ""
 
 pataut_picker.11.a:0 "1.Oligarchism"
+pataut_picker.11.b:0 "2.Yugoslavism"
 pataut_picker.11.h:0 "Back to First Page"
 
 ###National Populist###
@@ -1079,4 +1081,6 @@ natpop_picker.14.t:0 "Page 14"
 natpop_picker.14.d:0 ""
 
 natpop_picker.14.a:0 "1.Révolution Nationale"
+natpop_picker.14.b:0 "2.Sicilianism"
+natpop_picker.14.c:0 "3.Yugoslavism"
 natpop_picker.14.h:0 "Back to First Page"
