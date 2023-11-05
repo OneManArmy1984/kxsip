@@ -280,6 +280,10 @@ country_event = {
 		set_country_leader_ideology = soclib_liberal_socialism_subtype
 	}
 	option = {
+		name = soclib_picker.8.b
+		set_country_leader_ideology = soclib_radical_progressivism_subtype
+	}
+	option = {
 		name = soclib_picker.8.h
 		country_event = soclib_picker.1
 	}
