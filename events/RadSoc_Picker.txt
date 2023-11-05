@@ -406,6 +406,14 @@ country_event = {
 		set_country_leader_ideology = radsoc_georgism_subtype
 	}
 	option = {
+		name = radsoc_picker.11.f
+		set_country_leader_ideology = italian_left_futurism_subtype
+	}
+	option = {
+		name = radsoc_picker.11.g
+		set_country_leader_ideology = radsoc_colonial_govt_subtype
+	}
+	option = {
 		name = radsoc_picker.11.h
 		country_event = radsoc_picker.1
 	}

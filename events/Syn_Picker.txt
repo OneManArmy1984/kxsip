@@ -212,6 +212,10 @@ country_event = {
 		set_country_leader_ideology = christian_syndicalism_subtype 
 	}
 	option = {
+		name = syn_picker.6.e
+		set_country_leader_ideology = reformed_natsynd_subtype 
+	}
+	option = {
 		name = syn_picker.6.h
 		country_event = syn_picker.1
 	}

@@ -129,6 +129,8 @@ tot_picker.12.t:0 "Page 12"
 tot_picker.12.d:0 ""
 
 tot_picker.12.a:0 "1.Christian Communism"
+tot_picker.12.b:0 "2.Italian Left Futurism"
+tot_picker.12.c:0 "3.Reformed Charter Totalism"
 tot_picker.12.h:0 "Back to First Page"
 
 ###Syndicalist###
@@ -196,6 +198,7 @@ syn_picker.6.d:0 ""
 syn_picker.6.a:0 "1.Red Junta"
 syn_picker.6.b:0 "2.National Syndicalism"
 syn_picker.6.c:0 "3.Christian Syndicalism"
+syn_picker.6.e:0 "4.Reformed Charter Totalism"
 syn_picker.6.h:0 "Back to First Page"
 
 ###Radical Socialist###
@@ -319,6 +322,8 @@ radsoc_picker.11.a:0 "1.Mariáteguismo"
 radsoc_picker.11.b:0 "2.Liberal Socialism"
 radsoc_picker.11.c:0 "3.Christian Anarchism"
 radsoc_picker.11.e:0 "4.Left Georgism"
+radsoc_picker.11.f:0 "5.Italian Left Futurism"
+radsoc_picker.11.g:0 "6.Socialist Colonial Government"
 radsoc_picker.11.h:0 "Back to First Page"
 
 ###Social Democrat###
@@ -1083,4 +1088,5 @@ natpop_picker.14.d:0 ""
 natpop_picker.14.a:0 "1.Révolution Nationale"
 natpop_picker.14.b:0 "2.Sicilianism"
 natpop_picker.14.c:0 "3.Yugoslavism"
+natpop_picker.14.e:0 "4.Italian Right Futurism"
 natpop_picker.14.h:0 "Back to First Page"
