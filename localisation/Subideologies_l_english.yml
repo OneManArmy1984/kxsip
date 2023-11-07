@@ -324,7 +324,14 @@ radsoc_picker.11.c:0 "3.Christian Anarchism"
 radsoc_picker.11.e:0 "4.Left Georgism"
 radsoc_picker.11.f:0 "5.Italian Left Futurism"
 radsoc_picker.11.g:0 "6.Socialist Colonial Government"
-radsoc_picker.11.h:0 "Back to First Page"
+radsoc_picker.11.h:0 "Next Page"
+
+radsoc_picker.12.t:0 "Page 12"
+radsoc_picker.12.d:0 ""
+
+radsoc_picker.12.a:0 "1.De Leonism"
+radsoc_picker.12.b:0 "2.Humanistic Capitalism"
+radsoc_picker.12.h:0 "Back to First Page"
 
 ###Social Democrat###
 

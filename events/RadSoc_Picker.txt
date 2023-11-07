@@ -415,6 +415,28 @@ country_event = {
 	}
 	option = {
 		name = radsoc_picker.11.h
+		country_event = radsoc_picker.12
+	}
+}
+
+country_event = {
+	id = radsoc_picker.12
+	title = radsoc_picker.12.t 
+	desc = radsoc_picker.12.d 
+	picture = GFX_report_event_radsoc12
+
+	is_triggered_only = yes
+	
+	option = {
+		name = radsoc_picker.12.a
+		set_country_leader_ideology = radsoc_de_leonism_subtype
+	}
+	option = {
+		name = radsoc_picker.12.b
+		set_country_leader_ideology = radsoc_humanistic_capitalism_subtype
+	}
+	option = {
+		name = radsoc_picker.12.h
 		country_event = radsoc_picker.1
 	}
 }
