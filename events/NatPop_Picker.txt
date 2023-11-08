@@ -519,6 +519,10 @@ country_event = {
 		set_country_leader_ideology = italian_right_futurism_subtype
 	}
 	option = {
+		name = natpop_picker.14.f
+		set_country_leader_ideology = italian_legionarism_subtype
+	}
+	option = {
 		name = natpop_picker.14.h
 		country_event = natpop_picker.1
 	}
