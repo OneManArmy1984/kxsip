@@ -1,7 +1,7 @@
 ﻿l_english:
 
-zenable_elections:0 "Enable Elections"
-zdisable_elections:0 "Disable Elections"
+enable_elections:0 "Enable Elections"
+disable_elections:0 "Disable Elections"
  
 elections.1.t:0 "What will be the frequency of elections?"
 elections.1.desc:0 ""
