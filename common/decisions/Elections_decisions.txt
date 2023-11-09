@@ -1,5 +1,5 @@
 debug_decisions = {
-    disable_elections = {
+    zdisable_elections = {
 	    icon = GFX_decision_decision_election
 		allowed = { always = yes }
 	    fire_only_once = no
@@ -106,7 +106,7 @@ debug_decisions = {
 		    }
         }
     }
-    enable_elections = {
+    zenable_elections = {
 	    icon = GFX_decision_decision_election
 		allowed = { always = yes }
 	    fire_only_once = no

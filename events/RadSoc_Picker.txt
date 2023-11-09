@@ -436,6 +436,10 @@ country_event = {
 		set_country_leader_ideology = radsoc_humanistic_capitalism_subtype
 	}
 	option = {
+		name = radsoc_picker.12.c
+		set_country_leader_ideology = radsoc_social_credit_subtype
+	}
+	option = {
 		name = radsoc_picker.12.h
 		country_event = radsoc_picker.1
 	}
