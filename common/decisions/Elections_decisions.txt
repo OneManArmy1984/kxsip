@@ -8,9 +8,6 @@ debug_decisions = {
 				has_elections = no
 			}
 		}
-		priority = {
-	        base = 0
-        }
 		cost = 0
 		fire_only_once = no
 		ai_will_do = {
@@ -118,9 +115,6 @@ debug_decisions = {
 				has_elections = yes
 			}
 		}
-		priority = {
-	        base = 0
-        }
 		cost = 0
 		fire_only_once = no
 		ai_will_do = {
