@@ -528,6 +528,24 @@ country_event = {
 	}
 	option = {
 		name = natpop_picker.14.h
+		country_event = natpop_picker.15
+	}
+}
+
+country_event = {
+	id = natpop_picker.15
+	title = natpop_picker.15.t 
+	desc = natpop_picker.15.d 
+	picture = GFX_report_event_natpop15
+
+	is_triggered_only = yes
+
+    option = {
+		name = natpop_picker.15.a
+		set_country_leader_ideology = natpop_colonial_govt_subtype
+	}
+	option = {
+		name = natpop_picker.15.h
 		country_event = natpop_picker.1
 	}
 }

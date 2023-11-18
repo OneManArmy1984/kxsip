@@ -432,6 +432,10 @@ country_event = {
 		set_country_leader_ideology = socdem_liberalized_syndicalism_subtype
 	}
 	option = {
+		name = socdem_picker.12.b
+		set_country_leader_ideology = socdem_jermanism_subtype
+	}
+	option = {
 		name = socdem_picker.12.h
 		country_event = socdem_picker.1
 	}

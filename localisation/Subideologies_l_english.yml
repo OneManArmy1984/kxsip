@@ -133,6 +133,7 @@ tot_picker.12.b:0 "2.Italian Left Futurism"
 tot_picker.12.c:0 "3.Reformed Charter Totalism"
 tot_picker.12.e:0 "4.Massimalismo"
 tot_picker.12.f:0 "5.Red Social Credit"
+tot_picker.12.g:0 "6.Nkrumaism"
 tot_picker.12.h:0 "Back to First Page"
 
 ###Syndicalist###
@@ -201,6 +202,7 @@ syn_picker.6.a:0 "1.Red Junta"
 syn_picker.6.b:0 "2.National Syndicalism"
 syn_picker.6.c:0 "3.Christian Syndicalism"
 syn_picker.6.e:0 "4.Reformed Charter Totalism"
+syn_picker.6.f:0 "5.Nkrumaism"
 syn_picker.6.h:0 "Back to First Page"
 
 ###Radical Socialist###
@@ -334,6 +336,8 @@ radsoc_picker.12.d:0 ""
 radsoc_picker.12.a:0 "1.De Leonism"
 radsoc_picker.12.b:0 "2.Humanistic Capitalism"
 radsoc_picker.12.c:0 "3.Red Social Credit"
+radsoc_picker.12.e:0 "4.Jermanism"
+radsoc_picker.12.f:0 "5.Nkrumaism"
 radsoc_picker.12.h:0 "Back to First Page"
 
 ###Social Democrat###
@@ -465,6 +469,7 @@ socdem_picker.12.t:0 "Page 12"
 socdem_picker.12.d:0 ""
 
 socdem_picker.12.a:0 "1.Liberalized Syndicalism"
+socdem_picker.12.b:0 "2.Jermanism"
 socdem_picker.12.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -1102,4 +1107,10 @@ natpop_picker.14.c:0 "3.Yugoslavism"
 natpop_picker.14.e:0 "4.Italian Right Futurism"
 natpop_picker.14.f:0 "5.Italian Legionarism"
 natpop_picker.14.g:0 "6.Social Credit"
-natpop_picker.14.h:0 "Back to First Page"
+natpop_picker.14.h:0 "Next Page"
+
+natpop_picker.15.t:0 "Page 15"
+natpop_picker.15.d:0 ""
+
+natpop_picker.15.a:0 "1.Chauvinistic Colonial Government"
+natpop_picker.15.h:0 "Back to First Page"

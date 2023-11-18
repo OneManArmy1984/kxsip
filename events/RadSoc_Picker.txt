@@ -440,6 +440,14 @@ country_event = {
 		set_country_leader_ideology = radsoc_social_credit_subtype
 	}
 	option = {
+		name = radsoc_picker.12.e
+		set_country_leader_ideology = jermanism_subtype
+	}
+	option = {
+		name = radsoc_picker.12.f
+		set_country_leader_ideology = nkrumaism_subtype
+	}
+	option = {
 		name = radsoc_picker.12.h
 		country_event = radsoc_picker.1
 	}

@@ -448,6 +448,10 @@ country_event = {
 		set_country_leader_ideology = tot_social_credit_subtype
 	}
 	option = {
+		name = tot_picker.12.g
+		set_country_leader_ideology = tot_nkrumaism_subtype
+	}
+	option = {
 		name = tot_picker.12.h
 		country_event = tot_picker.1
 	}
