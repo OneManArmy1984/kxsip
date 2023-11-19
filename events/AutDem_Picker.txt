@@ -356,6 +356,10 @@ country_event = {
 		set_country_leader_ideology = authdem_corporatocracy_subtype
 	}
 	option = {
+		name = autdem_picker.10.b
+		set_country_leader_ideology = authdem_rocquisme_subtype
+	}
+	option = {
 		name = autdem_picker.10.h
 		country_event = autdem_picker.1
 	}

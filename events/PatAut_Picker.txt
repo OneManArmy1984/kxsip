@@ -398,6 +398,14 @@ country_event = {
 		set_country_leader_ideology = yugoslavism_subtype
 	}
 	option = {
+		name = pataut_picker.11.c
+		set_country_leader_ideology = rocquisme_subtype
+	}
+	option = {
+		name = pataut_picker.11.e
+		set_country_leader_ideology = scientific_monarchism_subtype
+	}
+	option = {
 		name = pataut_picker.11.h
 		country_event = pataut_picker.1
 	}

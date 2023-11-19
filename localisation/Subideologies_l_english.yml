@@ -203,6 +203,7 @@ syn_picker.6.b:0 "2.National Syndicalism"
 syn_picker.6.c:0 "3.Christian Syndicalism"
 syn_picker.6.e:0 "4.Reformed Charter Totalism"
 syn_picker.6.f:0 "5.Nkrumaism"
+syn_picker.6.g:0 "6.Modernismo Nicaragüense"
 syn_picker.6.h:0 "Back to First Page"
 
 ###Radical Socialist###
@@ -558,6 +559,7 @@ soclib_picker.8.d:0 ""
 
 soclib_picker.8.a:0 "1.Liberal Socialism"
 soclib_picker.8.b:0 "2.Radical Progressivism"
+soclib_picker.8.c:0 "3.Teetotalism"
 soclib_picker.8.h:0 "Back to First Page"
 
 ###Market Liberal###
@@ -828,6 +830,7 @@ autdem_picker.10.t:0 "Page 10"
 autdem_picker.10.d:0 ""
 
 autdem_picker.10.a:0 "1.Corporatocracy"
+autdem_picker.10.b:0 "2.Rocquisme"
 autdem_picker.10.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
@@ -949,6 +952,8 @@ pataut_picker.11.d:0 ""
 
 pataut_picker.11.a:0 "1.Oligarchism"
 pataut_picker.11.b:0 "2.Yugoslavism"
+pataut_picker.11.c:0 "3.Rocquisme"
+pataut_picker.11.e:0 "4.Scientific Monarchism"
 pataut_picker.11.h:0 "Back to First Page"
 
 ###National Populist###
