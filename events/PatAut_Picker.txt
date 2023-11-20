@@ -87,7 +87,7 @@ country_event = {
 	
 	option = {
 		name = pataut_picker.3.a
-		set_country_leader_ideology = pat_afrofuture_subtype
+		set_country_leader_ideology = pataut_afrofuture_subtype
 	}
 	option = {
 		name = pataut_picker.3.b

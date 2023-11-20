@@ -103,7 +103,7 @@ country_event = {
 	}
 	option = {
 		name = radsoc_picker.3.f
-		set_country_leader_ideology = radsoc_obammunism_subtype
+		set_country_leader_ideology = moderate_obammunism_subtype
 	}
 	option = {
 		name = radsoc_picker.3.g

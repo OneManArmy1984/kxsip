@@ -103,7 +103,7 @@ country_event = {
 	}
 	option = {
 		name = natpop_picker.3.f
-		set_country_leader_ideology = npo_afrofuture_subtype
+		set_country_leader_ideology = natpop_afrofuture_subtype
 	}
 	option = {
 		name = natpop_picker.3.g
