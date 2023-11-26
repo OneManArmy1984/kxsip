@@ -406,6 +406,14 @@ country_event = {
 		set_country_leader_ideology = scientific_monarchism_subtype
 	}
 	option = {
+		name = pataut_picker.11.f
+		set_country_leader_ideology = pataut_pelleyism_subtype
+	}
+	option = {
+		name = pataut_picker.11.g
+		set_country_leader_ideology = pataut_hearstian_democracy_subtype
+	}
+	option = {
 		name = pataut_picker.11.h
 		country_event = pataut_picker.1
 	}

@@ -360,6 +360,14 @@ country_event = {
 		set_country_leader_ideology = authdem_rocquisme_subtype
 	}
 	option = {
+		name = autdem_picker.10.c
+		set_country_leader_ideology = authdem_pelleyism_subtype
+	}
+	option = {
+		name = autdem_picker.10.e
+		set_country_leader_ideology = hearstian_democracy_subtype
+	}
+	option = {
 		name = autdem_picker.10.h
 		country_event = autdem_picker.1
 	}

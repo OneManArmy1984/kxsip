@@ -471,6 +471,7 @@ socdem_picker.12.d:0 ""
 
 socdem_picker.12.a:0 "1.Liberalized Syndicalism"
 socdem_picker.12.b:0 "2.Jermanism"
+socdem_picker.12.c:0 "3.National Progressivism"
 socdem_picker.12.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -560,6 +561,7 @@ soclib_picker.8.d:0 ""
 soclib_picker.8.a:0 "1.Liberal Socialism"
 soclib_picker.8.b:0 "2.Radical Progressivism"
 soclib_picker.8.c:0 "3.Teetotalism"
+soclib_picker.8.e:0 "4.National Progressivism"
 soclib_picker.8.h:0 "Back to First Page"
 
 ###Market Liberal###
@@ -721,6 +723,7 @@ soccon_picker.7.b:0 "2.Maurrassisme"
 soccon_picker.7.c:0 "3.Gaullism"
 soccon_picker.7.e:0 "4.Scandinavism"
 soccon_picker.7.f:0 "5.Popularism"
+soccon_picker.7.g:0 "6.Pelleyism"
 soccon_picker.7.h:0 "Back to First Page"
 
 ###Authoritarian Democrat###
@@ -831,6 +834,8 @@ autdem_picker.10.d:0 ""
 
 autdem_picker.10.a:0 "1.Corporatocracy"
 autdem_picker.10.b:0 "2.Rocquisme"
+autdem_picker.10.c:0 "3.Pelleyism"
+autdem_picker.10.e:0 "4.Hearstian Democracy"
 autdem_picker.10.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
@@ -954,6 +959,8 @@ pataut_picker.11.a:0 "1.Oligarchism"
 pataut_picker.11.b:0 "2.Yugoslavism"
 pataut_picker.11.c:0 "3.Rocquisme"
 pataut_picker.11.e:0 "4.Scientific Monarchism"
+pataut_picker.11.f:0 "5.Pelleyism"
+pataut_picker.11.g:0 "6.Hearstian Democracy"
 pataut_picker.11.h:0 "Back to First Page"
 
 ###National Populist###
