@@ -225,6 +225,24 @@ country_event = {
 	}
 	option = {
 		name = syn_picker.6.h
+		country_event = syn_picker.7
+	}
+}
+
+country_event = {
+	id = syn_picker.7
+	title = syn_picker.7.t 
+	desc = syn_picker.7.d 
+	picture = GFX_report_event_syn7
+
+	is_triggered_only = yes
+	
+	option = {
+		name = syn_picker.7.a
+		set_country_leader_ideology = syn_radical_progressivism_subtype 
+	}
+	option = {
+		name = syn_picker.7.h
 		country_event = syn_picker.1
 	}
 }

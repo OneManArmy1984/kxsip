@@ -204,7 +204,13 @@ syn_picker.6.c:0 "3.Christian Syndicalism"
 syn_picker.6.e:0 "4.Reformed Charter Totalism"
 syn_picker.6.f:0 "5.Nkrumaism"
 syn_picker.6.g:0 "6.Modernismo Nicaragüense"
-syn_picker.6.h:0 "Back to First Page"
+syn_picker.6.h:0 "Next Page"
+
+syn_picker.7.t:0 "Page 7"
+syn_picker.7.d:0 ""
+
+syn_picker.7.a:0 "1.Radical Progressivism"
+syn_picker.7.h:0 "Back to First Page"
 
 ###Radical Socialist###
 
@@ -339,6 +345,7 @@ radsoc_picker.12.b:0 "2.Humanistic Capitalism"
 radsoc_picker.12.c:0 "3.Red Social Credit"
 radsoc_picker.12.e:0 "4.Jermanism"
 radsoc_picker.12.f:0 "5.Nkrumaism"
+radsoc_picker.12.g:0 "6.Vardamanism"
 radsoc_picker.12.h:0 "Back to First Page"
 
 ###Social Democrat###
@@ -961,7 +968,15 @@ pataut_picker.11.c:0 "3.Rocquisme"
 pataut_picker.11.e:0 "4.Scientific Monarchism"
 pataut_picker.11.f:0 "5.Pelleyism"
 pataut_picker.11.g:0 "6.Hearstian Democracy"
-pataut_picker.11.h:0 "Back to First Page"
+pataut_picker.11.h:0 "Next Page"
+
+pataut_picker.12.t:0 "Page 12"
+pataut_picker.12.d:0 ""
+
+pataut_picker.12.a:0 "1.Esotericism"
+pataut_picker.12.b:0 "2.Völkism"
+pataut_picker.12.c:0 "3.Elective Monarchy"
+pataut_picker.12.h:0 "Back to First Page"
 
 ###National Populist###
 

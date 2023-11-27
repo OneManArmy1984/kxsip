@@ -72,6 +72,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/syn6.png"
 	}
 	spriteType = {
+		name = "GFX_report_event_syn7"
+		texturefile = "gfx/event_pictures/syn7.png"
+	}
+	spriteType = {
 		name = "GFX_report_event_radsoc1"
 		texturefile = "gfx/event_pictures/radsoc1.png"
 	}
@@ -338,6 +342,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_pataut11"
 		texturefile = "gfx/event_pictures/pataut11.png"
+	}
+	spriteType = {
+		name = "GFX_report_event_pataut12"
+		texturefile = "gfx/event_pictures/pataut12.png"
 	}
 	spriteType = {
 		name = "GFX_report_event_natpop1"

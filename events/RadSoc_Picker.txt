@@ -448,6 +448,10 @@ country_event = {
 		set_country_leader_ideology = nkrumaism_subtype
 	}
 	option = {
+		name = radsoc_picker.12.g
+		set_country_leader_ideology = vardamanism_subtype
+	}
+	option = {
 		name = radsoc_picker.12.h
 		country_event = radsoc_picker.1
 	}
