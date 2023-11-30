@@ -453,6 +453,24 @@ country_event = {
 	}
 	option = {
 		name = radsoc_picker.12.h
+		country_event = radsoc_picker.13
+	}
+}
+
+country_event = {
+	id = radsoc_picker.13
+	title = radsoc_picker.13.t 
+	desc = radsoc_picker.13.d 
+	picture = GFX_report_event_radsoc13
+
+	is_triggered_only = yes
+	
+	option = {
+		name = radsoc_picker.13.a
+		set_country_leader_ideology = radsoc_paneuropeanism_subtype
+	}
+	option = {
+		name = radsoc_picker.13.h
 		country_event = radsoc_picker.1
 	}
 }

@@ -346,7 +346,13 @@ radsoc_picker.12.c:0 "3.Red Social Credit"
 radsoc_picker.12.e:0 "4.Jermanism"
 radsoc_picker.12.f:0 "5.Nkrumaism"
 radsoc_picker.12.g:0 "6.Vardamanism"
-radsoc_picker.12.h:0 "Back to First Page"
+radsoc_picker.12.h:0 "Next Page"
+
+radsoc_picker.13.t:0 "Page 13"
+radsoc_picker.13.d:0 ""
+
+radsoc_picker.13.a:0 "1.Left Paneuropeanism"
+radsoc_picker.13.h:0 "Back to First Page"
 
 ###Social Democrat###
 
