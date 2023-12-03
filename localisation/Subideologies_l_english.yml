@@ -738,7 +738,14 @@ soccon_picker.7.c:0 "3.Gaullism"
 soccon_picker.7.e:0 "4.Scandinavism"
 soccon_picker.7.f:0 "5.Popularism"
 soccon_picker.7.g:0 "6.Pelleyism"
-soccon_picker.7.h:0 "Back to First Page"
+soccon_picker.7.h:0 "Next Page"
+
+soccon_picker.8.t:0 "Page 8"
+soccon_picker.8.d:0 ""
+
+soccon_picker.8.a:0 "1.Esotericism"
+soccon_picker.8.b:0 "2.Theosophy"
+soccon_picker.8.h:0 "Back to First Page"
 
 ###Authoritarian Democrat###
 
@@ -850,6 +857,7 @@ autdem_picker.10.a:0 "1.Corporatocracy"
 autdem_picker.10.b:0 "2.Rocquisme"
 autdem_picker.10.c:0 "3.Pelleyism"
 autdem_picker.10.e:0 "4.Hearstian Democracy"
+autdem_picker.10.f:0 "5.Esotericism"
 autdem_picker.10.h:0 "Back to First Page"
 
 ###Paternal Autocrat###

@@ -368,6 +368,10 @@ country_event = {
 		set_country_leader_ideology = hearstian_democracy_subtype
 	}
 	option = {
+		name = autdem_picker.10.f
+		set_country_leader_ideology = authdem_occultism_subtype
+	}
+	option = {
 		name = autdem_picker.10.h
 		country_event = autdem_picker.1
 	}
