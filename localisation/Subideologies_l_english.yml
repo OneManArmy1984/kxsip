@@ -491,6 +491,7 @@ socdem_picker.12.a:0 "1.Liberalized Syndicalism"
 socdem_picker.12.b:0 "2.Jermanism"
 socdem_picker.12.c:0 "3.National Progressivism"
 socdem_picker.12.e:0 "4.Baha’i Universalism"
+socdem_picker.12.f:0 "5.Gandhism"
 socdem_picker.12.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -1008,8 +1009,8 @@ natpop_picker.1.d:0 ""
 
 natpop_picker.1.a:0 "1.Default National Populism"
 natpop_picker.1.b:0 "2.Integralism"
-natpop_picker.1.c:0 "3.Religious Fundamentalism"
-natpop_picker.1.e:0 "4.Militarism"
+natpop_picker.1.c:0 "3.Fundamentalism"
+natpop_picker.1.e:0 "4.Military Stratocracy"
 natpop_picker.1.f:0 "5.Savinkovism"
 natpop_picker.1.g:0 "6.Solidarism"
 natpop_picker.1.h:0 "Next Page"
