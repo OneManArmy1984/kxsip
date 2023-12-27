@@ -478,6 +478,10 @@ country_event = {
 		set_country_leader_ideology = market_leninism_subtype
 	}
 	option = {
+		name = radsoc_picker.13.e
+		set_country_leader_ideology = soltangalievism_subtype
+	}
+	option = {
 		name = radsoc_picker.13.h
 		country_event = radsoc_picker.1
 	}
