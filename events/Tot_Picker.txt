@@ -470,6 +470,10 @@ country_event = {
 		set_country_leader_ideology = tot_kleptocracy_subtype
 	}
 	option = {
+		name = tot_picker.13.b
+		set_country_leader_ideology = national_jacobinism_subtype
+	}
+	option = {
 		name = tot_picker.13.h
 		country_event = tot_picker.1
 	}
