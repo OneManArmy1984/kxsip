@@ -284,6 +284,10 @@ country_event = {
 		set_country_leader_ideology = soccon_theosophy_subtype  
 	}
 	option = {
+		name = soccon_picker.8.c
+		set_country_leader_ideology = qadhimism_subtype  
+	}
+	option = {
 		name = soccon_picker.8.h
 		country_event = soccon_picker.1
 	}

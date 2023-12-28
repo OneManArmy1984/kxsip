@@ -440,6 +440,10 @@ country_event = {
 		set_country_leader_ideology = elective_monarchy_subtype
 	}
 	option = {
+		name = pataut_picker.12.e
+		set_country_leader_ideology = pataut_qadhimism_subtype
+	}
+	option = {
 		name = pataut_picker.12.h
 		country_event = pataut_picker.1
 	}
