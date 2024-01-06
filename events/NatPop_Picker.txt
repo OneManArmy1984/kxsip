@@ -549,6 +549,10 @@ country_event = {
 		set_country_leader_ideology = national_security_state_subtype
 	}
 	option = {
+		name = natpop_picker.15.c
+		set_country_leader_ideology = dionysian_yoga_subtype
+	}
+	option = {
 		name = natpop_picker.15.h
 		country_event = natpop_picker.1
 	}
