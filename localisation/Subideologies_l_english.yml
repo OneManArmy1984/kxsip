@@ -756,6 +756,7 @@ soccon_picker.8.d:0 ""
 soccon_picker.8.a:0 "1.Esotericism"
 soccon_picker.8.b:0 "2.Theosophy"
 soccon_picker.8.c:0 "3.Qadimism"
+soccon_picker.8.e:0 "4.Synarchism"
 soccon_picker.8.h:0 "Back to First Page"
 
 ###Authoritarian Democrat###
@@ -1170,4 +1171,5 @@ natpop_picker.15.d:0 ""
 natpop_picker.15.a:0 "1.Chauvinistic Colonial Government"
 natpop_picker.15.b:0 "2.National Security State"
 natpop_picker.15.c:0 "3.Dionysian Yoga"
+natpop_picker.15.e:0 "4.Synarchism"
 natpop_picker.15.h:0 "Back to First Page"

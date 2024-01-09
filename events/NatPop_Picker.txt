@@ -553,6 +553,10 @@ country_event = {
 		set_country_leader_ideology = dionysian_yoga_subtype
 	}
 	option = {
+		name = natpop_picker.15.e
+		set_country_leader_ideology = synarchism_subtype
+	}
+	option = {
 		name = natpop_picker.15.h
 		country_event = natpop_picker.1
 	}
