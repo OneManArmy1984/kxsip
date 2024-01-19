@@ -296,6 +296,10 @@ country_event = {
 		set_country_leader_ideology = soclib_utopian_technocracy_subtype
 	}
 	option = {
+		name = soclib_picker.8.g
+		set_country_leader_ideology = soclib_burkhanism_subtype
+	}
+	option = {
 		name = soclib_picker.8.h
 		country_event = soclib_picker.1
 	}

@@ -497,6 +497,7 @@ socdem_picker.12.b:0 "2.Jermanism"
 socdem_picker.12.c:0 "3.National Progressivism"
 socdem_picker.12.e:0 "4.Baha’i Universalism"
 socdem_picker.12.f:0 "5.Gandhism"
+socdem_picker.12.g:0 "6.Burkhanism"
 socdem_picker.12.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -588,6 +589,7 @@ soclib_picker.8.b:0 "2.Radical Progressivism"
 soclib_picker.8.c:0 "3.Teetotalism"
 soclib_picker.8.e:0 "4.National Progressivism"
 soclib_picker.8.f:0 "5.Utopian Technocracy"
+soclib_picker.8.g:0 "6.Burkhanism"
 soclib_picker.8.h:0 "Back to First Page"
 
 ###Market Liberal###
@@ -873,7 +875,13 @@ autdem_picker.10.c:0 "3.Pelleyism"
 autdem_picker.10.e:0 "4.Hearstian Democracy"
 autdem_picker.10.f:0 "5.Esotericism"
 autdem_picker.10.g:0 "6.Qadimism"
-autdem_picker.10.h:0 "Back to First Page"
+autdem_picker.10.h:0 "Next Page"
+
+autdem_picker.11.t:0 "Page 11"
+autdem_picker.11.d:0 ""
+
+autdem_picker.11.a:0 "1.Burkhanism"
+autdem_picker.11.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
 
@@ -1174,4 +1182,5 @@ natpop_picker.15.a:0 "1.Chauvinistic Colonial Government"
 natpop_picker.15.b:0 "2.National Security State"
 natpop_picker.15.c:0 "3.Dionysian Yoga"
 natpop_picker.15.e:0 "4.Synarchism"
+natpop_picker.15.f:0 "5.Burkhanism"
 natpop_picker.15.h:0 "Back to First Page"

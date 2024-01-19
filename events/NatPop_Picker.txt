@@ -557,6 +557,10 @@ country_event = {
 		set_country_leader_ideology = synarchism_subtype
 	}
 	option = {
+		name = natpop_picker.15.f
+		set_country_leader_ideology = burkhanism_subtype
+	}
+	option = {
 		name = natpop_picker.15.h
 		country_event = natpop_picker.1
 	}
