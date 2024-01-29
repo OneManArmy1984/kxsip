@@ -474,6 +474,18 @@ country_event = {
 		set_country_leader_ideology = national_jacobinism_subtype
 	}
 	option = {
+		name = tot_picker.13.c
+		set_country_leader_ideology = tot_agrarian_socialism_subtype
+	}
+	option = {
+		name = tot_picker.13.e
+		set_country_leader_ideology = tot_market_socialist_subtype
+	}
+	option = {
+		name = tot_picker.13.f
+		set_country_leader_ideology = tot_bukharinist_subtype
+	}
+	option = {
 		name = tot_picker.13.h
 		country_event = tot_picker.1
 	}
