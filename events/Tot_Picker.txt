@@ -486,6 +486,10 @@ country_event = {
 		set_country_leader_ideology = tot_bukharinist_subtype
 	}
 	option = {
+		name = tot_picker.13.g
+		set_country_leader_ideology = tot_euro_panafricanism_subtype
+	}
+	option = {
 		name = tot_picker.13.h
 		country_event = tot_picker.1
 	}

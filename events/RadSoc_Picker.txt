@@ -482,6 +482,10 @@ country_event = {
 		set_country_leader_ideology = soltangalievism_subtype
 	}
 	option = {
+		name = radsoc_picker.13.f
+		set_country_leader_ideology = euro_panafricanism_subtype
+	}
+	option = {
 		name = radsoc_picker.13.h
 		country_event = radsoc_picker.1
 	}

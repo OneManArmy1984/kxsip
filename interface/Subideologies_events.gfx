@@ -180,6 +180,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/socdem12.png"
 	}
 	spriteType = {
+		name = "GFX_report_event_socdem13"
+		texturefile = "gfx/event_pictures/socdem13.png"
+	}
+	spriteType = {
 		name = "GFX_report_event_soclib1"
 		texturefile = "gfx/event_pictures/soclib1.png"
 	}
@@ -210,6 +214,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_soclib8"
 		texturefile = "gfx/event_pictures/soclib8.png"
+	}
+	spriteType = {
+		name = "GFX_report_event_soclib9"
+		texturefile = "gfx/event_pictures/soclib9.png"
 	}
 	spriteType = {
 		name = "GFX_report_event_marlib1"

@@ -292,6 +292,10 @@ country_event = {
 		set_country_leader_ideology = soccon_synarchism_subtype  
 	}
 	option = {
+		name = soccon_picker.8.f
+		set_country_leader_ideology = soccon_euro_panafricanism_subtype  
+	}
+	option = {
 		name = soccon_picker.8.h
 		country_event = soccon_picker.1
 	}

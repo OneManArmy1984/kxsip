@@ -301,6 +301,24 @@ country_event = {
 	}
 	option = {
 		name = soclib_picker.8.h
+		country_event = soclib_picker.9
+	}
+}
+
+country_event = {
+	id = soclib_picker.9
+	title = soclib_picker.9.t 
+	desc = soclib_picker.9.d 
+	picture = GFX_report_event_soclib9
+
+	is_triggered_only = yes
+	
+	option = {
+		name = soclib_picker.9.a
+		set_country_leader_ideology = soclib_euro_panafricanism_subtype
+	}
+	option = {
+		name = soclib_picker.9.h
 		country_event = soclib_picker.1
 	}
 }
