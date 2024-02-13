@@ -246,6 +246,10 @@ country_event = {
 		set_country_leader_ideology = syn_euro_panafricanism_subtype 
 	}
 	option = {
+		name = syn_picker.7.c
+		set_country_leader_ideology = syn_national_jacobinism_subtype 
+	}
+	option = {
 		name = syn_picker.7.h
 		country_event = syn_picker.1
 	}
