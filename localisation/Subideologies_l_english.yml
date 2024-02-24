@@ -1037,6 +1037,7 @@ pataut_picker.12.b:0 "2.Völkism"
 pataut_picker.12.c:0 "3.Elective Monarchy"
 pataut_picker.12.e:0 "4.Qadimism"
 pataut_picker.12.f:0 "5.National Democracy"
+pataut_picker.12.g:0 "6.Heel-Nederlandisme"
 pataut_picker.12.h:0 "Back to First Page"
 
 ###National Populist###
@@ -1205,4 +1206,5 @@ natpop_picker.15.b:0 "2.National Security State"
 natpop_picker.15.c:0 "3.Dionysian Yoga"
 natpop_picker.15.e:0 "4.Synarchism"
 natpop_picker.15.f:0 "5.Burkhanism"
+natpop_picker.15.g:0 "6.Heel-Nederlandisme"
 natpop_picker.15.h:0 "Back to First Page"

@@ -561,6 +561,10 @@ country_event = {
 		set_country_leader_ideology = burkhanism_subtype
 	}
 	option = {
+		name = natpop_picker.15.g
+		set_country_leader_ideology = natpop_pan_netherlandism_subtype
+	}
+	option = {
 		name = natpop_picker.15.h
 		country_event = natpop_picker.1
 	}
