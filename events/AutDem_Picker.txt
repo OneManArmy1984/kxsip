@@ -394,6 +394,10 @@ country_event = {
 		set_country_leader_ideology = authdem_burkhanism_subtype
 	}
 	option = {
+		name = autdem_picker.11.b
+		set_country_leader_ideology = authdem_savinkovism_subtype
+	}
+	option = {
 		name = autdem_picker.11.h
 		country_event = autdem_picker.1
 	}

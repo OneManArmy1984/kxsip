@@ -902,6 +902,7 @@ autdem_picker.11.t:0 "Page 11"
 autdem_picker.11.d:0 ""
 
 autdem_picker.11.a:0 "1.Burkhanism"
+autdem_picker.11.b:0 "2.Savinkovism"
 autdem_picker.11.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
@@ -1039,6 +1040,13 @@ pataut_picker.12.e:0 "4.Qadimism"
 pataut_picker.12.f:0 "5.National Democracy"
 pataut_picker.12.g:0 "6.Heel-Nederlandisme"
 pataut_picker.12.h:0 "Back to First Page"
+pataut_picker.12.h:0 "Next Page"
+
+pataut_picker.13.t:0 "Page 13"
+pataut_picker.13.d:0 ""
+
+pataut_picker.13.a:0 "1.Savinkovism"
+pataut_picker.13.h:0 "Back to First Page"
 
 ###National Populist###
 
