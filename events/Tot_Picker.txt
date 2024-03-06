@@ -491,6 +491,24 @@ country_event = {
 	}
 	option = {
 		name = tot_picker.13.h
+		country_event = tot_picker.14
+	}
+}
+
+country_event = {
+	id = tot_picker.14
+	title = tot_picker.14.t 
+	desc = tot_picker.14.d 
+	picture = GFX_report_event_tot14
+
+	is_triggered_only = yes
+	
+	option = {
+		name = tot_picker.14.a
+		set_country_leader_ideology = tot_left_nationalism_subtype
+	}
+	option = {
+		name = tot_picker.14.h
 		country_event = tot_picker.1
 	}
 }

@@ -263,6 +263,24 @@ country_event = {
 	}
 	option = {
 		name = marlib_picker.7.h
+		country_event = marlib_picker.8
+	}
+}
+
+country_event = {
+	id = marlib_picker.8
+	title = marlib_picker.8.t 
+	desc = marlib_picker.8.d 
+	picture = GFX_report_event_marlib8
+
+	is_triggered_only = yes
+	
+	option = {
+		name = marlib_picker.8.a
+		set_country_leader_ideology = marlib_oligarchy_subtype
+	}
+	option = {
+		name = marlib_picker.8.h
 		country_event = marlib_picker.1
 	}
 }

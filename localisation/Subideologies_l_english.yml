@@ -145,7 +145,13 @@ tot_picker.13.c:0 "3.Agrarian Socialism"
 tot_picker.13.e:0 "4.Market Socialism"
 tot_picker.13.f:0 "5.Bukharinism"
 tot_picker.13.g:0 "6.European Pan-Africanism"
-tot_picker.13.h:0 "Back to First Page"
+tot_picker.13.h:0 "Next Page"
+
+tot_picker.14.t:0 "Page 14"
+tot_picker.14.d:0 ""
+
+tot_picker.14.a:1 "1.Left Nationalism"
+tot_picker.14.h:0 "Back to First Page"
 
 ###Syndicalist###
 
@@ -691,7 +697,13 @@ marlib_picker.7.c:0 "3.Scandinavism"
 marlib_picker.7.e:0 "4.Liberalism of the Spirit"
 marlib_picker.7.f:0 "5.Qualunquismo"
 marlib_picker.7.g:0 "6.Radical Liberalism"
-marlib_picker.7.h:0 "Back to First Page"
+marlib_picker.7.h:0 "Next Page"
+
+marlib_picker.8.t:0 "Page 8"
+marlib_picker.8.d:0 ""
+
+marlib_picker.8.a:0 "1.Oligarchism"
+marlib_picker.8.h:0 "Back to First Page"
 
 ###Social Conservative###
 
