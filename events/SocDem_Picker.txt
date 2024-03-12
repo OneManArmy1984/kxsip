@@ -474,6 +474,10 @@ country_event = {
 		set_country_leader_ideology = socdem_socialist_feminism_subtype
 	}
 	option = {
+		name = socdem_picker.13.c
+		set_country_leader_ideology = authoritarian_social_democracy_subtype
+	}
+	option = {
 		name = socdem_picker.13.h
 		country_event = socdem_picker.1
 	}

@@ -566,6 +566,24 @@ country_event = {
 	}
 	option = {
 		name = natpop_picker.15.h
+		country_event = natpop_picker.16
+	}
+}
+
+country_event = {
+	id = natpop_picker.16
+	title = natpop_picker.16.t 
+	desc = natpop_picker.16.d 
+	picture = GFX_report_event_natpop16
+
+	is_triggered_only = yes
+
+    option = {
+		name = natpop_picker.16.a
+		set_country_leader_ideology = god_knowers_subtype
+	}
+	option = {
+		name = natpop_picker.16.h
 		country_event = natpop_picker.1
 	}
 }

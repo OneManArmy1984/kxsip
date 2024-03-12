@@ -318,6 +318,10 @@ country_event = {
 		set_country_leader_ideology = soclib_euro_panafricanism_subtype
 	}
 	option = {
+		name = soclib_picker.9.b
+		set_country_leader_ideology = cultural_mannism_subtype
+	}
+	option = {
 		name = soclib_picker.9.h
 		country_event = soclib_picker.1
 	}

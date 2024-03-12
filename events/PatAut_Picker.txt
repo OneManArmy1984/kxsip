@@ -470,6 +470,10 @@ country_event = {
 		set_country_leader_ideology = pataut_savinkovism_subtype
 	}
 	option = {
+		name = pataut_picker.13.b
+		set_country_leader_ideology = spectral_state_subtype
+	}
+	option = {
 		name = pataut_picker.13.h
 		country_event = pataut_picker.1
 	}

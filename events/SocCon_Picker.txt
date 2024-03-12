@@ -296,7 +296,29 @@ country_event = {
 		set_country_leader_ideology = soccon_euro_panafricanism_subtype  
 	}
 	option = {
+		name = soccon_picker.8.g
+		set_country_leader_ideology = costa_rican_nationalism_subtype  
+	}
+	option = {
 		name = soccon_picker.8.h
+		country_event = soccon_picker.9
+	}
+}
+
+country_event = {
+	id = soccon_picker.9
+	title = soccon_picker.9.t 
+	desc = soccon_picker.9.d 
+	picture = GFX_report_event_soccon9
+
+	is_triggered_only = yes
+	
+	option = {
+		name = soccon_picker.9.a
+		set_country_leader_ideology = soccon_paneuropeanism_subtype
+	}
+	option = {
+		name = soccon_picker.9.h
 		country_event = soccon_picker.1
 	}
 }

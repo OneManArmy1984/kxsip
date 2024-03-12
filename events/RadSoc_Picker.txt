@@ -486,6 +486,10 @@ country_event = {
 		set_country_leader_ideology = euro_panafricanism_subtype
 	}
 	option = {
+		name = radsoc_picker.13.g
+		set_country_leader_ideology = revolutionary_bolivarianism_subtype
+	}
+	option = {
 		name = radsoc_picker.13.h
 		country_event = radsoc_picker.1
 	}

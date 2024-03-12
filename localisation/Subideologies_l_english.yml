@@ -375,6 +375,7 @@ radsoc_picker.13.b:0 "2.Gandhism"
 radsoc_picker.13.c:0 "3.Market-Leninism"
 radsoc_picker.13.e:0 "4.Soltangalievism"
 radsoc_picker.13.f:0 "5.European Pan-Africanism"
+radsoc_picker.13.g:0 "6.Revolutionary Bolivarianism"
 radsoc_picker.13.h:0 "Back to First Page"
 
 ###Social Democrat###
@@ -518,6 +519,7 @@ socdem_picker.13.d:0 ""
 
 socdem_picker.13.a:0 "1.European Pan-Africanism"
 socdem_picker.13.b:0 "2.Socialist Feminism"
+socdem_picker.13.c:0 "3.Authoritarian Social Democracy"
 socdem_picker.13.h:0 "Back to First Page"
 
 ###Social Liberal###
@@ -616,6 +618,7 @@ soclib_picker.9.t:0 "Page 9"
 soclib_picker.9.d:0 ""
 
 soclib_picker.9.a:0 "1.European Pan-Africanism"
+soclib_picker.9.b:0 "2.Cultural Mannism"
 soclib_picker.9.h:0 "Back to First Page"
 
 ###Market Liberal###
@@ -703,6 +706,7 @@ marlib_picker.8.t:0 "Page 8"
 marlib_picker.8.d:0 ""
 
 marlib_picker.8.a:0 "1.Oligarchism"
+marlib_picker.8.b:0 "2.Weberian Liberalism"
 marlib_picker.8.h:0 "Back to First Page"
 
 ###Social Conservative###
@@ -794,7 +798,14 @@ soccon_picker.8.b:0 "2.Theosophy"
 soccon_picker.8.c:0 "3.Qadimism"
 soccon_picker.8.e:0 "4.Synarchism"
 soccon_picker.8.f:0 "5.European Pan-Africanism"
-soccon_picker.8.h:0 "Back to First Page"
+soccon_picker.8.g:0 "6.Costa Rican Nationalism"
+soccon_picker.8.h:0 "Next Page"
+
+soccon_picker.9.t:0 "Page 9"
+soccon_picker.9.d:0 ""
+
+soccon_picker.9.a:0 "1.Paneuropeanism"
+soccon_picker.9.h:0 "Back to First Page"
 
 ###Authoritarian Democrat###
 
@@ -915,6 +926,7 @@ autdem_picker.11.d:0 ""
 
 autdem_picker.11.a:0 "1.Burkhanism"
 autdem_picker.11.b:0 "2.Savinkovism"
+autdem_picker.11.c:0 "3.Cariato"
 autdem_picker.11.h:0 "Back to First Page"
 
 ###Paternal Autocrat###
@@ -1058,6 +1070,7 @@ pataut_picker.13.t:0 "Page 13"
 pataut_picker.13.d:0 ""
 
 pataut_picker.13.a:0 "1.Savinkovism"
+pataut_picker.13.b:0 "2.Spectral State"
 pataut_picker.13.h:0 "Back to First Page"
 
 ###National Populist###
@@ -1227,4 +1240,10 @@ natpop_picker.15.c:0 "3.Dionysian Yoga"
 natpop_picker.15.e:0 "4.Synarchism"
 natpop_picker.15.f:0 "5.Burkhanism"
 natpop_picker.15.g:0 "6.Heel-Nederlandisme"
-natpop_picker.15.h:0 "Back to First Page"
+natpop_picker.15.h:0 "Next Page"
+
+natpop_picker.16.t:0 "Page 16"
+natpop_picker.16.d:0 ""
+
+natpop_picker.16.a:0 "1.God Knowers"
+natpop_picker.16.h:0 "Back to First Page"

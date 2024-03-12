@@ -280,6 +280,10 @@ country_event = {
 		set_country_leader_ideology = marlib_oligarchy_subtype
 	}
 	option = {
+		name = marlib_picker.8.b
+		set_country_leader_ideology = weberian_liberalism_subtype
+	}
+	option = {
 		name = marlib_picker.8.h
 		country_event = marlib_picker.1
 	}
